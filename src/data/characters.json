@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Terran",
+        "img": "data/img/terran.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Zerg",
+        "img": "data/img/zerg.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Protoss",
+        "img": "data/img/protoss.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Marine",
+        "img": "data/img/t_marine.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Medic",
+        "img": "data/img/t_medic.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Battlecruiser",
+        "img": "data/img/t_battlecruiser.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Zergling",
+        "img": "data/img/z_zergling.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hydralisk",
+        "img": "data/img/z_hydralisk.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ultralisk",
+        "img": "data/img/z_ultralisk.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Zealot",
+        "img": "data/img/p_zealot.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Dark Templar",
+        "img": "data/img/p_dtemplar.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Observer",
+        "img": "data/img/p_observer.jpg"
+    }
+]
